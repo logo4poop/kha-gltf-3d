@@ -1,0 +1,6 @@
+[submodule "Kha"]
+	path = Kha
+	url = https://github.com/Kode/Kha
+[submodule "Libraries/haxe-gltf"]
+	path = Libraries/haxe-gltf
+	url = https://github.com/hamaluik/haxe-gltf
